@@ -17,7 +17,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 
 public class OrangeHRMTest {
-
+//New Update 
 	OrangeHRMPO login;
 	private String user = "admin";
 	private String password = "admin123";
