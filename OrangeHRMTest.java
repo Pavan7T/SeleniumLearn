@@ -17,8 +17,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 
 public class OrangeHRMTest {
-//New Update 
-//Staged current file but again changed
+
+//New feature added and file is from feature branch
+
 	OrangeHRMPO login;
 	private String user = "admin";
 	private String password = "admin123";

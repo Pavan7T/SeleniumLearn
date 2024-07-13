@@ -24,8 +24,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.support.ui.LoadableComponent;
 import org.testng.annotations.AfterClass;
 
-//Adding comment after file being commited
-//TOday task completed but i want to discard the new changes
+//The file is from new feature branch
 
 public class OrangeHRMPO {
 
