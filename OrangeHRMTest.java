@@ -18,6 +18,7 @@ import org.testng.annotations.AfterClass;
 
 public class OrangeHRMTest {
 //New Update 
+//Staged current file but again changed
 	OrangeHRMPO login;
 	private String user = "admin";
 	private String password = "admin123";
